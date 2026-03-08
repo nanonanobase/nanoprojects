@@ -1,0 +1,20 @@
+Crypto-Safe Security Checklist
+
+Purpose:
+Ensure your Bitcoin wallet and crypto activities are secure.
+
+Essential Steps:
+
+1. Use a hardware wallet – Ledger, Trezor, or equivalent.
+2. Enable 2FA – For all wallets and exchanges.
+3. Secure seed phrases – Offline storage only.
+4. Verify wallet addresses – Double-check every transaction.
+5. Separate wallets – Hot wallet vs cold storage.
+6. Use multisig for critical funds – Require multiple signatures.
+7. Stay updated on scams – Follow crypto security alerts.
+8. Check software authenticity – Only download wallets from official sources.
+9. Backup regularly – Keep encrypted offline backups.
+10. Limit sharing info – Don’t expose balances or holdings publicly.
+
+Optional for agents:
+- Can be structured as JSON/YAML for automated verification.

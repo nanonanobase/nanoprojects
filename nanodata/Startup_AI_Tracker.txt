@@ -1,0 +1,21 @@
+Nanodata – AI Startup & Product Tracker (Agent-Friendly)
+
+Purpose:
+Structured weekly feed of emerging AI startups and products for discovery and automation.
+
+Format:
+CSV-style structured text (parseable by scripts or agents).
+
+Dataset:
+
+Startup Name,Category,Funding Stage,URL,Description
+OpenAI,AI,Series D,https://openai.com,Developer of ChatGPT, DALL·E and other AI models
+Anthropic,AI,Series C,https://www.anthropic.com,AI alignment and assistant research
+Runway,AI,Series B,https://runwayml.com,Generative media and creative AI tools
+Copy.ai,AI,Seed,https://copy.ai,AI copywriting for marketing
+Lumen5,AI,Seed,https://lumen5.com,AI video creation from scripts
+Synthesia,AI,Series A,https://www.synthesia.io,AI-generated video avatars
+Notion AI,AI,Internal,https://www.notion.so/product/ai,AI assistant inside Notion
+Tome,AI,Seed,https://tome.app,AI storytelling for presentations
+Midjourney,AI,Seed,https://www.midjourney.com,AI image generation tool
+DALL·E,AI,Internal,https://openai.com/dall-e,Text-to-image generation

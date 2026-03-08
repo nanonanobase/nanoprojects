@@ -1,0 +1,22 @@
+Nanodata – Advanced Agent Prompt Bundles (Agent-Friendly)
+
+Purpose:
+30 curated AI prompts for autonomous agents, converting vague instructions into structured outputs for marketing, coding, or data analysis.
+
+Format:
+CSV-style structured text (parseable by agents).
+
+Dataset:
+
+prompt_name,input_description,prompt_text,example_input,example_output
+Marketing Copy Generator,Brief product or service description,"Write a high-converting marketing copy for the following product:",Product: AI writing tool,"Boost your productivity with our AI writing tool that creates high-quality content in seconds."
+Code Debug & Refactor,Messy or broken code snippet,"Clean, optimize, and fix this code:",def f(x):return x*,"def f(x): return x*1  # fixed"
+Data Analysis Workflow,Raw dataset description or CSV,"Generate a step-by-step analysis workflow for this dataset:",Sales data CSV,"1. Load data, 2. Summarize sales by region, 3. Create charts"
+Email Subject Generator,Product/service + tone,"Generate 5 email subject lines for the product:",AI Newsletter,"Boost Your AI Skills Today!, Unlock AI Secrets, Improve Your Workflow"
+Social Media Post Creator,Product/service + platform,"Create a social media post based on the product:",AI Writing Tool,"Discover how AI Writing Tool can help you write faster and better! #AI #Productivity"
+Content Idea Generator,Topic or keyword,"Generate 10 content ideas based on this topic:",AI Automation,"Top 10 Ways AI Automation Improves Productivity"
+Bug Fix Assistant,Programming snippet,"Identify and fix bugs in the following code:",for i in range(5) print(i),"for i in range(5): print(i)"
+Financial Report Summarizer,Raw financial CSV,"Summarize key insights from this financial dataset:",Quarterly earnings CSV,"Revenue up 12%, Net Profit $2.3M, Expenses stable"
+Product Review Analyzer,Customer review text,"Analyze sentiment and extract key points:",Product reviews CSV,"Positive: ease of use; Negative: slow loading"
+Meeting Notes Organizer,Raw meeting transcript,"Extract action items and summarize meeting:",Zoom transcript,"Action 1: assign tasks; Action 2: schedule next call"
+Project Plan Generator,Project description,"Create a structured project plan for this project:",Launch new AI tool,"1. Define scope, 2. Assign tasks, 3. Set milestones"

@@ -1,0 +1,39 @@
+Ultimate AI Prompt Refiner – 10 Mega-Prompts
+
+Instructions:
+Copy each prompt into your AI system. Replace placeholders <…> with your specifics.
+
+Mega-Prompt 1 – Marketing Copy
+Write a persuasive marketing copy for <product/service> targeting <audience> using <tone>. Include <unique selling points> and a clear call-to-action.
+
+Mega-Prompt 2 – Blog/Article Draft
+Generate a structured blog post on <topic>. Include an introduction, 3 main points with examples, and a conclusion summarizing key takeaways.
+
+Mega-Prompt 3 – Social Media Posts
+Create 5 variations of a social media post for <platform> about <topic>. Each should be <tone>, <length>, and include hashtags related to <keywords>.
+
+Mega-Prompt 4 – Email Campaign
+Draft an email campaign sequence for <audience>. Include subject lines, body copy, and CTAs. Tone should be <friendly/professional/persuasive>.
+
+Mega-Prompt 5 – Code Generation
+Write a <programming language> script that <function>. Include comments explaining each step. Optimize for readability and performance.
+
+Mega-Prompt 6 – Data Analysis
+Analyze <dataset description>. Summarize key insights, trends, and anomalies. Provide recommendations for <goal>.
+
+Mega-Prompt 7 – Financial Report Summary
+Summarize <company/project> financial data. Highlight key metrics, trends, risks, and actionable recommendations for <stakeholders>.
+
+Mega-Prompt 8 – Product Description
+Write a compelling product description for <product>. Include features, benefits, and why it stands out from competitors.
+
+Mega-Prompt 9 – Problem-Solving Workflow
+Design a step-by-step solution plan for <problem>. Include potential risks, mitigation strategies, and actionable next steps.
+
+Mega-Prompt 10 – Creative Storytelling
+Write a short story or scenario based on <theme/idea>. Use <tone/style> and include engaging characters and plot.
+
+Footer Notes:
+- Replace placeholders <…> with your specifics.
+- Optimized for GPT-class AI models.
+- Ready to use in workflows or agent scripts.

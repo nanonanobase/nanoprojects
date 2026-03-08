@@ -1,0 +1,17 @@
+Curated Directory of No-Code AI Tools – Top 30
+
+Purpose:
+Discover AI tools without coding.
+
+| Tool Name | Category | Link | Short Description | Use Case |
+|---|---|---|---|---|
+| Copy.ai | Writing | https://copy.ai | AI copywriting tool | Blog posts, ads |
+| Jasper | Writing | https://www.jasper.ai | AI assistant for creative writing | Emails, stories |
+| Lumen5 | Video | https://lumen5.com | AI video creator from text | Marketing videos |
+| Pictory | Video | https://pictory.ai | Convert scripts into video clips | Social media videos |
+| Runway | Video | https://runwayml.com | AI video editing & VFX | Creative production |
+| Midjourney | Art | https://www.midjourney.com | AI image generation | Illustrations, marketing |
+| DALL·E | Art | https://openai.com/dall-e | Generate images from text | Visual content |
+| Notion AI | Productivity | https://www.notion.so/product/ai | AI assistant inside Notion | Notes, task planning |
+| Zapier AI | Workflow | https://zapier.com | Automate workflows with AI | Task automation |
+| Make.com | Workflow | https://www.make.com | Visual automation builder | Integrations & automations |

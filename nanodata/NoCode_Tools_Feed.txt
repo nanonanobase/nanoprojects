@@ -1,0 +1,42 @@
+Nanodata – AI & No-Code Tools Feed (Agent-Friendly)
+
+Purpose:
+Structured dataset of 30 top AI and No-Code tools, designed for direct consumption by autonomous agents.
+
+Format:
+CSV-style structured text (parseable by scripts or agents).
+
+Dataset:
+
+Tool Name,Category,Link,Description,Use Case
+Copy.ai,Writing,https://copy.ai,AI copywriting tool,Blog posts, ads
+Jasper,Writing,https://www.jasper.ai,AI assistant for creative writing,Emails, stories
+Lumen5,Video,https://lumen5.com,AI video creator from text,Marketing videos
+Pictory,Video,https://pictory.ai,Convert scripts into video clips,Social media videos
+Runway,Video,https://runwayml.com,AI video editing & VFX,Creative production
+Midjourney,Art,https://www.midjourney.com,AI image generation,Illustrations, marketing
+DALL·E,Art,https://openai.com/dall-e,Generate images from text,Visual content
+Notion AI,Productivity,https://www.notion.so/product/ai,AI assistant inside Notion,Notes, task planning
+Zapier AI,Workflow,https://zapier.com,Automate workflows with AI,Task automation
+Make.com,Workflow,https://www.make.com,Visual automation builder,Integrations & automations
+ChatGPT,Writing,https://chat.openai.com,Conversational AI assistant,Text generation, summaries
+Claude,Writing,https://www.anthropic.com/claude,AI assistant for tasks,Text analysis, summarization
+Synthesia,Video,https://www.synthesia.io,AI video avatar generator,Explainer videos
+Canva AI,Design,https://www.canva.com/features/ai,AI design tools,Graphic creation
+Figma AI,Design,https://www.figma.com,AI plugin for design,UI/UX creation
+Mubert,Music,https://mubert.com,AI-generated music,Background audio for videos
+Soundraw,Music,https://soundraw.io,AI music generator,Podcasts, video production
+Runway Audio,Music,https://runwayml.com/audio,AI audio tools,Music and sound effects
+Beautiful.ai,Presentation,https://www.beautiful.ai,AI presentation builder,Slides creation
+Tome,Presentation,https://tome.app,AI storytelling for presentations,Pitch decks
+Descript,Audio/Video,https://www.descript.com,AI audio & video editor,Podcast and video editing
+ReimagineHome,Design,https://reimaginehome.ai,AI interior design,Visualizing spaces
+Jukebox,Music,https://openai.com/research/jukebox,AI music generation,Creative music projects
+Writesonic,Writing,https://writesonic.com,AI content generation,Marketing copy
+CopySmith,Writing,https://copysmith.ai,AI copywriting,Ads, product copy
+Scribly,Writing,https://scribly.ai,AI writing assistant,Blogging, social media
+Tome AI,Presentation,https://tome.app,AI storytelling,Slides & pitch decks
+Synthesys,Video,https://synthesys.io,AI video voice generator,Voiceover videos
+Runway Gen,Video,https://runwayml.com,AI generative video tools,Creative production
+AISEO,Writing,https://aiseo.ai,SEO content generator,Marketing content
+Frase,Writing,https://frase.io,AI content research & creation,Articles & SEO
